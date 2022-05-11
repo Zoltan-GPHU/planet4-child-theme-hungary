@@ -294,3 +294,9 @@ Text Domain: planet4-child-theme-hungary
 .accordion-text {
   padding-top:1em;
 }
+
+
+/*Page 831 - Lépj fel a helyben tapasztalt környezetkárosítás ellen*/
+@media only screen and (max-width: 500px) {
+  .page-id-831 .gp-smaller-heading-under-500px h2{font-size:2em;}
+}
